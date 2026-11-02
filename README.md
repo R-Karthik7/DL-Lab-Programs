@@ -70,7 +70,7 @@ A classification report with precision, recall and F1 is also printed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/DL-Lab-Programs.git
+git clone https://github.com/R-Karthik7/DL-Lab-Programs.git
 cd DL-Lab-Programs
 
 # 2. Install the requirements
